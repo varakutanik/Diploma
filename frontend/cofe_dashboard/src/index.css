@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgba(000, 000, 000, 0.85);
+}
+
+code {
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  color: #fff;
+}
+.css-2k77nw-MuiStack-root {
+  justify-content: flex-start !important;
+}
